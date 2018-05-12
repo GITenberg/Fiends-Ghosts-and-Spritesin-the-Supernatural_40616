@@ -1,0 +1,29 @@
+_repo: Fiends-Ghosts-and-Spritesin-the-Supernatural_40616
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Radcliffe, John Netten
+    birthdate: 1826
+    deathdate: 1884
+    gutenberg_agent_id: '40729'
+    url: http://www.gutenberg.org/2009/agents/40729
+description: ''
+gutenberg_issued: '2012-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40616'
+  lccn: '11006876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Supernatural'
+- !lcsh 'Mythology'
+- !lcc 'BF'
+title: "Fiends, Ghosts, and Sprites\r\nIncluding an Account of the Origin and Nature\
+  \ of Belief in the Supernatural"
+url: http://www.gutenberg.org/ebooks/40616
